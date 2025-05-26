@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "d190a0d4566e5035",
+    "type": "split",
+    "children": [
+      {
+        "id": "35079cfcf1352003",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a825f9b47def7d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "전역상태관리/Zustand는 왜 Provider 없이 전역상태관리가 가능할까.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zustand는 왜 Provider 없이 전역상태관리가 가능할까"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d985713d0bb0575",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "651bb0cea17ac63b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "53e2db55969296c4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "5c416e98460be289",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "30d3f3476e5a7227",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c369a626a2930c6a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bf4a4b1bfb91011a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "전역상태관리/Zustand는 왜 Provider 없이 전역상태관리가 가능할까.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "34f9d472790c97f2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "전역상태관리/Zustand는 왜 Provider 없이 전역상태관리가 가능할까.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "3cce88bdc8244009",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "전역상태관리/Zustand는 왜 Provider 없이 전역상태관리가 가능할까.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4a825f9b47def7d9",
+  "lastOpenFiles": [
+    "전역상태관리/전역상태 관리란.md",
+    "전역상태관리/시간여행디버깅.md",
+    "전역상태관리/Zustand는 왜 Provider 없이 전역상태관리가 가능할까.md",
+    "전역상태관리/Zustand VS Recoil.md",
+    "전역상태관리/Zustand 시작.md",
+    "전역상태관리",
+    "create a link.md",
+    "아카이빙 사이트.md",
+    "Welcome.md"
+  ]
+}
